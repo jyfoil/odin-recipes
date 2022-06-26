@@ -1,0 +1,40 @@
+body {
+  background-color: #a2d2ff;
+}
+
+ul {
+  display: flex;
+  gap: 32px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  border-style: solid;
+  border-color: #000000;
+  padding: 8px;
+}
+
+li:hover {
+  background-color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 28px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.top {
+  color: #000000;
+  font-size: 36px;
+}
