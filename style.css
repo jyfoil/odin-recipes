@@ -47,3 +47,7 @@ img {
   border-style: solid;
   border-color: #000000;
 }
+
+a {
+  font-size: 24px;
+}
