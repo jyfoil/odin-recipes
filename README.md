@@ -11,3 +11,13 @@ This project will be updated with new HTML, CSS, or JavaScript as I continue lea
   - lists
   - images
   - links
+
+## Second iteration: CSS properties
+
+- CSS
+  - Flexbox
+  - Background color
+  - Borders
+  - Hover
+  - Manipulate font sizes
+  - Manipulate image border
