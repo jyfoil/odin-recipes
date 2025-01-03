@@ -1,0 +1,23 @@
+#recipe-header {
+    background-color: rgb(189, 189, 247);
+    text-align: center;
+    color: red;
+}
+
+.recipe-list {
+    text-align: center;
+    background-color: rgb(198, 235, 235);
+}
+
+#lasagna-header, #chicken-header {
+    background-color: yellow;
+}
+
+.lasagna-pic, .chicken-pic {
+    height: 500px;
+    width: 500px;
+}
+
+.header, .text {
+    text-align: center;
+}
